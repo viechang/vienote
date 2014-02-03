@@ -1,0 +1,4 @@
+fprintd-enroll
+yum install yum-plugin-fastestmirror
+sudo yum update
+sudo yum install google-chrome-stable nautilus-open-terminal ubuntu-title-fonts
